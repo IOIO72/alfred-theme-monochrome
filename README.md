@@ -13,3 +13,5 @@ Old terminal like monochrome color theme and monospace font
 
 * [Download](Monochrome.alfredappearance)
 * Double click on `Monochrome.alfredappearance`
+
+_Alternative URL on Alfred Themes: [Monochrome](https://www.alfredapp.com/extras/theme/1J8pknaV8y/)_
